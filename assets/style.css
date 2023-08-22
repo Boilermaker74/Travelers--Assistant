@@ -56,7 +56,7 @@ Styling for the password generator begins on line 264 */
   height: 250px;
   width: auto;
   justify-content: flex-end;
-  background-image: url("/Assets/Images/Picket.png");
+  background-image: url("/assets/images/Picket.png");
   }
 
   #Coollogo {
