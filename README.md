@@ -57,7 +57,7 @@ The api provides user some user feedback. When a zero is entered in the source t
  
 We assigned the type of the input box as “number” and a min value of zero.  This prevents the user from entering any value other than a positive number. 
  
-![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/CCinputbox.png?raw=true)
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/CCinputbox.png?raw=true)
 
 
 Lastly, the application has a textarea dedicated to recording quick notes for the user.
